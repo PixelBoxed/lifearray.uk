@@ -1,11 +1,18 @@
-body {
-    margin: 0;
-}
-
 .l-fullscreen {
     align-items: center;
-    display: flex;
+    display: flex;   
     height: 100vh;
     justify-content: center;
     width: calc(100vw - (100vw - 100%));
+}
+
+.o-logo {
+    max-width: 40%;
+}
+
+@media screen and (min-width: 1008px) {
+    
+    .o-logo {
+        max-width: 20%;
+    }
 }
