@@ -6,6 +6,7 @@ body {
     align-items: center;
     display: flex;   
     height: 100vh;
+    min-height: -webkit-fill-available;
     justify-content: center;
     width: calc(100vw - (100vw - 100%));
 }
