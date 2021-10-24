@@ -1,9 +1,9 @@
-title: House of Est
-email: hello@houseofest.uk
+title: Life Array
+email: hello@lifearray.uk
 description: >- # this means to ignore newlines until "baseurl:"
   description goes here
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://houseofest.uk" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lifearray.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 exclude:
    - .sass-cache/

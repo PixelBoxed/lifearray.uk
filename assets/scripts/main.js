@@ -1,5 +1,5 @@
 
-var fullStop = document.getElementsByClassName("o-logo-stop")[0];
+var fullStop = document.getElementsByClassName("o-logo-life")[0];
 var colours = [
     /* Inkthreadable Solid */
     "c9343b", // Red
