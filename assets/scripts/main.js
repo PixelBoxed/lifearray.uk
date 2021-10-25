@@ -50,4 +50,4 @@ window.setInterval(function(){
     for (x=0; x<fills.length; x++) {
         fills[x].setAttribute("fill", colours[colour]);
     }
-}, 4000); /* Every second, change the colour of the full stop */
+}, 4000); /* Every second, change the colour of the full stop */ 
